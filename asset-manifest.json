@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/url_shortner_webapp/static/css/main.515b4ae4.chunk.css",
+    "main.js": "/url_shortner_webapp/static/js/main.feea50cb.chunk.js",
+    "main.js.map": "/url_shortner_webapp/static/js/main.feea50cb.chunk.js.map",
+    "runtime-main.js": "/url_shortner_webapp/static/js/runtime-main.60031298.js",
+    "runtime-main.js.map": "/url_shortner_webapp/static/js/runtime-main.60031298.js.map",
+    "static/js/2.6c03c14c.chunk.js": "/url_shortner_webapp/static/js/2.6c03c14c.chunk.js",
+    "static/js/2.6c03c14c.chunk.js.map": "/url_shortner_webapp/static/js/2.6c03c14c.chunk.js.map",
+    "static/js/3.af4737eb.chunk.js": "/url_shortner_webapp/static/js/3.af4737eb.chunk.js",
+    "static/js/3.af4737eb.chunk.js.map": "/url_shortner_webapp/static/js/3.af4737eb.chunk.js.map",
+    "index.html": "/url_shortner_webapp/index.html",
+    "static/css/main.515b4ae4.chunk.css.map": "/url_shortner_webapp/static/css/main.515b4ae4.chunk.css.map",
+    "static/js/2.6c03c14c.chunk.js.LICENSE.txt": "/url_shortner_webapp/static/js/2.6c03c14c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60031298.js",
+    "static/js/2.6c03c14c.chunk.js",
+    "static/css/main.515b4ae4.chunk.css",
+    "static/js/main.feea50cb.chunk.js"
+  ]
+}
